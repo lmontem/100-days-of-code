@@ -20,8 +20,14 @@
 **Thoughts**: I was a little frustrated b/c it wasn't working but actually liked figuring out what was wrong. It's been awhile since I had to debug something so its refreshing that I didn't give up and wasn't too annoyed. 
 **Link to work**: https://github.com/lmontem/portfolio 
 
-### Day 2: Nov 24, 2021
+### Day 3: Nov 24, 2021
 
 **Today's Progress**: Picked a color scheme! finsihed the navbar, started the about section. realized my picture wasn't working b/c of the photo itself and quickly fixed that. 
 **Thoughts**: Bootstrap made completing the navbar super fast and easy! I really like my color scheme and hope it will ultimatly will work. 
+**Link to work**: https://github.com/lmontem/portfolio 
+
+### Day 4: Nov 25, 2021
+
+**Today's Progress**: added screengrabs on my work to page. added title and description and worked on a popup but then decided I don't want a popup so have to rethink my design.
+**Thoughts**: Deciding on a design as I go is interesting. It helps my creative juices flow. Since this is a personal project I don't mind it but if it was professional those details would def need to be decided beforehand. 
 **Link to work**: https://github.com/lmontem/portfolio 
