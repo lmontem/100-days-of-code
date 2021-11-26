@@ -31,3 +31,9 @@
 **Today's Progress**: added screengrabs on my work to page. added title and description and worked on a popup but then decided I don't want a popup so have to rethink my design.
 **Thoughts**: Deciding on a design as I go is interesting. It helps my creative juices flow. Since this is a personal project I don't mind it but if it was professional those details would def need to be decided beforehand. 
 **Link to work**: https://github.com/lmontem/portfolio 
+
+### Day 5: Nov 26, 2021
+
+**Today's Progress**: worked with color palate a little. made portfolio "cards", made responsive
+**Thoughts**: bootstrap makes it so easy to make the site responsive and spacing what I want. I am pleasantly surprised. 
+**Link to work**: https://github.com/lmontem/portfolio 
