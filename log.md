@@ -37,3 +37,15 @@
 **Today's Progress**: worked with color palate a little. made portfolio "cards", made responsive
 **Thoughts**: bootstrap makes it so easy to make the site responsive and spacing what I want. I am pleasantly surprised. 
 **Link to work**: https://github.com/lmontem/portfolio 
+
+### Day 6: Dec 1, 2021
+
+**Today's Progress**:added links to my pages. discovered my bootstrap is not centered!
+**Thoughts**: working while sick is exhausting. I made a plan to do the simple links which is good to have a plan.
+**Link to work**:https://github.com/lmontem/portfolio 
+
+### Day 7: Dec 3, 2021
+
+**Today's Progress**:added social media logos/links, added a box for about, attempted to center page
+**Thoughts**: I feel like I could center this page if I was just using css but I'm trying to do it via bootstrap so it's going to take longer. I'm also wondering if I can change my social media links to my color scheme? they are currently white. 
+**Link to work**:https://github.com/lmontem/portfolio 
