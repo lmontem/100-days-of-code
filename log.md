@@ -49,3 +49,9 @@
 **Today's Progress**:added social media logos/links, added a box for about, attempted to center page
 **Thoughts**: I feel like I could center this page if I was just using css but I'm trying to do it via bootstrap so it's going to take longer. I'm also wondering if I can change my social media links to my color scheme? they are currently white. 
 **Link to work**:https://github.com/lmontem/portfolio 
+
+### Day 8: Dec 6, 2021
+
+**Today's Progress**:Looked up jobs in my area! Started to prepare for "mock" interview tomorrow. 
+**Thoughts**: I'm so nervous for my mock interview. It's only for practice but my nerves are REAL! I'm also once again overwhelmed looking at the requirements for jobs. I have to remember I do have skills and it won't hurt to apply to places regardless of the requirements. 
+**Link to work**:
