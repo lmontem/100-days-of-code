@@ -55,3 +55,9 @@
 **Today's Progress**:Looked up jobs in my area! Started to prepare for "mock" interview tomorrow. 
 **Thoughts**: I'm so nervous for my mock interview. It's only for practice but my nerves are REAL! I'm also once again overwhelmed looking at the requirements for jobs. I have to remember I do have skills and it won't hurt to apply to places regardless of the requirements. 
 **Link to work**:
+
+### Day 9: Dec 7, 2021
+
+**Today's Progress**:did my mock interview and applied for a job.
+**Thoughts**: I learned that I need more confidence b/c I do know what I'm talking about. It was also great to get feedback on what I can improve. I'll be making an outline to try to make my 'elevator pitch' more clear.
+**Link to work**:
